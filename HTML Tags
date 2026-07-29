@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Hobbies</title>
+</head>
+<body>
+
+<h1>HTML Lists and Formatting Tags</h1>
+
+<font face="Arial"><p>This webpage contains ordered lists, unordered lists, and formatting tags.</p></font>
+<hr>
+
+<ol type="I">
+    <li><b><font face="Verdana" color="Red">Favorite Movies</font></b>
+        <ol type="1">
+            <li>Adventure Movies
+                <ul type="disc">
+                    <li>Into the Wild</li>
+                    <li>The Notebook</li>
+                    <li>The Lord of the Rings</li>
+                </ul>
+            <li>Action Movies
+                <ul type="circle">
+                    <li>John Wick</li>
+                    <li>Avengers: Endgame</li>
+                </ul>
+            <li>Comedy Movies
+                <ul type="square">
+                    <li>Home Alone</li>
+                    <li>Mr. Bean's Holiday</li>
+                </ul>
+        </ol>
+    <br>
+    <li><b><font face="Verdana" color="Blue">Anime Recommendations</font></b>
+        <ol type="a">
+            <li>Isekai
+                <ul type="square">
+                    <li>Re:Zero</li>
+                    <li>Mushoku Tensei</li>
+                    <li>That Time I Got Reincarnated as a Slime</li>
+                </ul>
+            <li>Action
+                <ul type="disc">
+                    <li>Solo Leveling</li>
+                    <li>Demon Slayer</li>
+                    <li>Jujutsu Kaisen</li>
+                </ul>
+            <li>Adventure
+                <ul type="circle">
+                    <li>Hunter x Hunter</li>
+                    <li>Frieren</li>
+                </ul>
+        </ol>
+    <br>
+    <li><b><font face="Verdana" color="Brown">Songs I Listen To</font></b>
+        <ol type="A">
+            <li>Lifetime</li>
+            <li>Can I Be Him</li>
+            <li>The Man Who Can't Be Moved</li>
+        </ol>
+    <br>
+    <li><b><font face="Verdana" color="Purple">Future Professions</font></b>
+
+        <ol type="i">
+            <li>Cybersecurity Specialist</li>
+            <li>Data Analyst</li>
+            <li>Cloud Developer</li>
+        </ol>
+    <br>
+    <li><b><font face="Verdana" color="Green">Countries to Visit</font></b>
+        <ol type="I">
+            <li>Switzerland</li>
+            <li>Japan</li>
+            <li>Greenland</li>
+        </ol>
+</ol>
+<hr>
+<p><b>Thank you for viewing my webpage!</b></p>
+</body>
+</html>
