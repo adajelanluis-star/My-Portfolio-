@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<head>
+  <title>Form Activity</title>
+</head>
+<html>
+  <body>
+    
+    <h1 style="background-color: #2A835F; padding: 11px; text-transform: uppercase; text-align: center;"> 
+      The Form Tagging
+    </h1>
+    
+    <p>
+      The form tag in HTML is used to create a form that allows users to enter and submit information.
+    </p>
+    <p>
+      It can contain different form elements such as text fields, passwords, checkboxes, radio buttons, and buttons. The information entered in the form can then be sent to a server for processing.
+    </p>
+
+    <h2>Objectives</h2>
+
+<ol>
+  <li>To allow users to enter their personal account information.</li>
+  <li>To demonstrate the proper use of HTML form elements.</li>
+  <li>To create a simple and user-friendly account login form.</li>
+</ol> 
+    
+    <fieldset style="background-color: #8BBB92; border: 2px solid #12544F; padding-left: 50px;">
+    
+    <h3> 
+      LOGIN YOUR ACCOUNT
+    </h3>
+      
+    <form>
+       Username <br>
+       <input type="text" placeholder="Enter you username">
+       <br>
+
+       Password <br>
+       <input type="password" placeholder="greg****">
+       <br>
+
+       Gmail Account <br>
+       <input type="email" placeholder="gelocruz@gmail">
+       <br> <br>
+      
+  <button type="submit">Submit</button>
+    </form>
+      <br>
+      
+    </fieldset>
+    <br> <br>
+  
